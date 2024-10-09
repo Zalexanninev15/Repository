@@ -1,0 +1,74 @@
+{
+	"files": [
+		{
+			"id": "0",
+			"name": "Пример [pwsh]",
+			"file": "example_0",
+			"version": "1.0",
+			"date": "30.09.24",
+			"author": "Zalexanninev15",
+			"app": "Shark Remote",
+			"type": 0,
+			"username": "@Zalexanninev15",
+			"note": "",
+			"description": "Пример простого плагина с использованием PowerShell.",
+			"md5": "1234567890abcdef1234567890abcdef (рандомно)"
+		},
+		{
+			"id": "1",
+			"name": "Пример [au3]",
+			"file": "example_1",
+			"version": "1.0",
+			"date": "30.09.24",
+			"author": "Zalexanninev15",
+			"app": "Shark Remote",
+			"type": 1,
+			"username": "@Zalexanninev15",
+			"note": "",
+			"description": "Пример простого плагина с использованием AutoIt3.",
+			"md5": "1234567890abcdef1234567890abcdef (рандомно)"
+		},
+		{
+			"id": "2",
+			"name": "Пример",
+			"file": "example_2",
+			"version": "0.1",
+			"date": "30.09.24",
+			"author": "Zalexanninev15",
+			"app": "Shark Remote",
+			"type": 2,
+			"username": "@Zalexanninev15",
+			"note": "",
+			"description": "Пример плагина-сценария.",
+			"md5": "1234567890abcdef1234567890abcdef (рандомно)"
+		},
+		{
+			"id": "3",
+			"name": "Links Handler",
+			"file": "lh",
+			"version": "1.0",
+			"date": "04.10.24",
+			"author": "Zalexanninev15",
+			"app": "Shark Remote",
+			"type": 3,
+			"username": "@Zalexanninev15",
+			"note": "",
+			"description": "Добавляет функционал обработчика ссылок из репозитория плагина для установки плагинов в \"один клик\".",
+			"md5": "1234567890abcdef1234567890abcdef (рандомно)"
+		},
+		{
+			"id": "4",
+			"name": "Bypassing size restrictions",
+			"file": "bsr",
+			"version": "1.0",
+			"date": "04.10.24",
+			"author": "Zalexanninev15",
+			"app": "Shark Remote",
+			"type": 3,
+			"username": "@Zalexanninev15",
+			"note": "",
+			"description": "Обходит ограничение по размеру (до 10 Мб) на установку плагинов.",
+			"md5": "1234567890abcdef1234567890abcdef (рандомно)"
+		}
+	]
+}
