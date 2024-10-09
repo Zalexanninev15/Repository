@@ -69,6 +69,20 @@
 			"note": "",
 			"description": "Обходит ограничение по размеру (до 10 Мб) на установку плагинов.",
 			"md5": "1234567890abcdef1234567890abcdef (рандомно)"
+		},
+{
+			"id": "5",
+			"name": "UIv1",
+			"file": "uiv1",
+			"version": "1.0",
+			"date": "04.10.24",
+			"author": "Zalexanninev15",
+			"app": "Shark Remote",
+			"type": 3,
+			"username": "@Zalexanninev15",
+			"note": "",
+			"description": "Возвращает возможность использования UI из Shark Remote версии 5.2.",
+			"md5": "1234567890abcdef1234567890abcdef (рандомно)"
 		}
 	]
 }
