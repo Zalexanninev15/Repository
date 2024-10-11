@@ -1,9 +1,9 @@
 {
-	"apps": [
-		{
-			"id": "0",
-			"name": "Shark Remote",
-			"url": "https://cloud.disroot.org/s/iCEpHAAJsc2CBNp/download",
-		},
-	]
+  "apps": [
+    {
+      "id": "0",
+      "name": "Shark Remote",
+      "url": "https://cloud.disroot.org/s/iCEpHAAJsc2CBNp/download"
+    }
+  ]
 }
